@@ -1,34 +1,4 @@
-# Hello SQL
 
-[![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
-[![SQL](https://img.shields.io/badge/PostgreSQL-16+-699eca?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)](https://postgresql.org)
-
-## Curso completo para aprender los fundamentos del lenguaje SQL y bases de datos relacionales
-
-![](./Images/header.jpg)
-
-### 7 horas | +80 lecciones | +50 comandos | con código | desde cero | completo | gratis
-
-### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
-> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
-
-## Curso completo en vídeo
-
-<a href="https://youtu.be/OuJerKzV5T0"><img src="http://i3.ytimg.com/vi/OuJerKzV5T0/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
-
-**Este es el curso completo en [vídeo](https://youtu.be/OuJerKzV5T0) de 7 horas en YouTube asociado al código de este repositorio.**
-
-## Lecciones y código
-
-[INTRODUCCIÓN](https://youtu.be/OuJerKzV5T0)
-
-1. [Bases de datos SQL](https://youtu.be/OuJerKzV5T0?t=234)
-2. [Sistema de gestión de base de datos](https://youtu.be/OuJerKzV5T0?t=1011)
-3. [Fundamentos de SQL y bases de datos](https://youtu.be/OuJerKzV5T0?t=1347)
-4. [Configuración e instalación](https://youtu.be/OuJerKzV5T0?t=2753)
-5. [Primeros pasos](https://youtu.be/OuJerKzV5T0?t=3282)
-6. [Conexión y cliente SQL](https://youtu.be/OuJerKzV5T0?t=3555)
-7. [Inicialización de datos](https://youtu.be/OuJerKzV5T0?t=4381)
 8. [Consulta de datos: `SELECT`](https://youtu.be/OuJerKzV5T0?t=5618) ➔ [[Código]](./01_Reading/01_select.sql)
 9. [Modificadores: Parte 1](https://youtu.be/OuJerKzV5T0?t=6074)
 	1. [`DISTINCT`](https://youtu.be/OuJerKzV5T0?t=6089) ➔ [[Código]](./01_Reading/02_distinct.sql)
@@ -102,54 +72,3 @@
 19. [Conexión desde código](https://youtu.be/OuJerKzV5T0?t=20847)
 	1. [CONECTORES](https://youtu.be/OuJerKzV5T0?t=20876) ➔ [[Código]](./06_Advanced/06_connectors.py)
 	2. [SQL INJECTION](https://youtu.be/OuJerKzV5T0?t=21149) ➔ [[Código]](./06_Advanced/06_connectors.py)
-20. [Otros clientes SQL](https://youtu.be/OuJerKzV5T0?t=21641)
-21. [PostgresSQL](https://youtu.be/OuJerKzV5T0?t=22070)
-22. [Despliegue en la nube](https://youtu.be/OuJerKzV5T0?t=23214)
-23. [Próximos pasos](https://youtu.be/OuJerKzV5T0?t=24283)
-
-[CONCLUSIONES](https://youtu.be/OuJerKzV5T0?t=24678)
-
-Durante el curso aprenderemos los fundamentos del lenguaje SQL y las bases de datos relacionales con ejemplos prácticos.
-Nos centraremos en MySQL para llevar a cabo las clases, ya que es uno de los más usados en enseñanza y a nivel profesional. También utilizaremos PostgreSQL, por ser una de las bases de datos más populares de la actualidad. De todas formas, no debe preocuparte el motor de bases de datos utilizado, ya que SQL es un lenguaje estándar, por lo que se utilizará prácticamente igual en todas ellas. Una vez lo conozcas no tendrá dificultad alguna llevar esos conocimientos a otros sistemas.  
-
-Todo el código creado durante el curso está disponible para que puedas consultarlo junto a su explicación.
-
-> En el servidor de la comunidad de [Discord](https://discord.gg/mouredev) dispones de un canal llamado "💾bases-de-datos" para que puedas comentar lo que quieras.
-
-## Enlaces de interés
-
-* [Documentación SQL](https://www.w3schools.com/sql/default.asp)
-* [MySQL](https://mysql.com)
-* [Descarga MySQL](https://dev.mysql.com/downloads/mysql/)
-* [CLI MySQL](https://dev.mysql.com/doc/refman/8.0/en/mysql.html)
-* [MySQL Workbench](https://dev.mysql.com/downloads/workbench)
-* [PostgreSQL](https://www.postgresql.org)
-* [Clever Cloud](https://www.clever-cloud.com)
-
-## Únete al campus de programación de la comunidad
-
-![https://mouredev.pro](./Images/pro.jpg)
-
-#### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
-
-> **¿Buscas un extra?** Aquí encontrarás mis cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
-> 
-> Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
-
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-### Freelance full-stack iOS & Android engineer
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
-
-Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
-
-Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
-
-[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
